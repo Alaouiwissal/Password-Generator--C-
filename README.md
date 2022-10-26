@@ -46,3 +46,8 @@ generierten Passwörter mit dem erstellten Datum.
 |Modus|Beschreibung|wie sieht aus?|
 |------|------------|--------------|
 |Light Mode|Im Light Modus wird Password Generator mit dunkler Rosa Text auf hellem Hintergrund (hell Rosa) angezeigt.|![pika-1666680834086-1x](https://user-images.githubusercontent.com/101860651/197966003-3284588a-bb0e-4e52-8e73-7fc763ecec0d.png)|
+|White Mode|Im White Modus wird Password Generator mit beigem Text auf weißen Hintergrund angezeigt.|![pika-1666680998673-1x](https://user-images.githubusercontent.com/101860651/197966891-00e55cfa-c39c-42e5-9387-6428e340b746.png)|
+|Dark Mode|Im Dark Modus wird Password Generator mit gelbem Text auf violetten Hintergrund angezeigt.|![pika-1666681211747-1x](https://user-images.githubusercontent.com/101860651/197967171-ab010dcc-5658-4c5b-afd6-e0c92724badf.png)|
+|Black Mode|Im Black Modus wird Password Generator mit grünem Text auf schwarzen Hintergrund angezeigt.|![pika-1666681383862-1x](https://user-images.githubusercontent.com/101860651/197967386-a8a95071-4b1a-428e-9f71-f4cca687a5a1.png)|
+
+
