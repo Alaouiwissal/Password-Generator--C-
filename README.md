@@ -37,9 +37,7 @@ generierten Passwörter mit dem erstellten Datum.
 
 ## 3-Seite: Einstellungen
  
- - In den Password Generator werden „White“,“ light“, „Black“ und
- 
-„Dark Modus“ als Personalisierungsoption unterstützt.
+ - In den Password Generator werden „White“,“ light“, „Black“ und „Dark Modus“ als Personalisierungsoption unterstützt.
 
 ![pika-1666681758936-1x](https://user-images.githubusercontent.com/101860651/197964665-e16bdf36-c905-4ef7-b243-461556396ea4.png)
 
