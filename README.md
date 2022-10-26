@@ -5,7 +5,7 @@ Ein Passwort-Generator arbeitet nach einem Zufallsalgorithmus und hat das Ziel,
 eine möglichst sichere und nict zu entschlüsselnde Zeichenkombination für Sie zu erstellen.
 Um ein auf diese Weise erstelltes Passwort zu entschlüsseln, 
 benötigt ein Hacker in aller Regel mehrere Jahrzehnte. Die Bedienung ist einfach und die
-Erstellung eines Passwortes dauert nur wenige Sekunden
+Erstellung eines Passwortes dauert nur wenige Sekunden.
 
 
 ## 1-Seite : Generieren
@@ -35,7 +35,7 @@ generierten Passwörter mit dem erstellten Datum.
 
 ![pika-1666682105067-1x](https://user-images.githubusercontent.com/101860651/197964139-bc1f3014-bc9c-4092-b5d9-6af29b0ed595.png)
 
-##3-Seite: Einstellungen
+## 3-Seite: Einstellungen
  
  - In den Password Generator werden „White“,“ light“, „Black“ und
  
